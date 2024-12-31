@@ -1,7 +1,8 @@
 # go-interview
 - [pointer, channal, range 질문](https://medium.com/@ninucium/go-interview-questions-part-1-pointers-channels-and-range-67c61345cf3c)
 - [100문항 질문&답변](https://www.turing.com/interview-questions/golang)
-- [초보자, 경험자 기준으로 나누어서 질문 14개 항목](https://www.interviewbit.com/golang-interview-questions/)
+- [초보자, 경험자 기준으로 나누어서 질문 14개 항목](https://www.interviewbit.com/golang-interview-questions/)
+- [10 eseential 질문](https://www.toptal.com/golang/interview-questions)
 
 - 
 ### 1. **Go의 고루틴과 채널**
