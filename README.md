@@ -1,6 +1,9 @@
 # go-interview
+- [pointer, channal, range 질문](https://medium.com/@ninucium/go-interview-questions-part-1-pointers-channels-and-range-67c61345cf3c)
+- [100문항 질문&답변](https://www.turing.com/interview-questions/golang)
+- [초보자, 경험자 기준으로 나누어서 질문 14개 항목](https://www.interviewbit.com/golang-interview-questions/)
 
-
+- 
 ### 1. **Go의 고루틴과 채널**
 고루틴과 채널의 작동 원리를 설명하고, 고루틴 간 데이터를 안전하게 교환하기 위해 채널을 사용하는 간단한 예제를 작성하세요.
 
